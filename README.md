@@ -1,7 +1,7 @@
 <body>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <div align="center">
-    <img src="https://64.media.tumblr.com/0c90dcb5fe36e96a06ecf6906bc887e4/tumblr_otkhld26y81rnkcazo1_640.gifv">
+    <img src="img/profile.gif">
 </div>
 <br>
 <div>
@@ -14,6 +14,9 @@
 <li> <b>Faculty:</b> Computational Mathematics and Cybernetics </li>
 
 <br>
+<br>
+<br>
+
 
 <h2 align="center"> ~ 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ </h2>
 
