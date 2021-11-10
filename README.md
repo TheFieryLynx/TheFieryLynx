@@ -8,15 +8,17 @@
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
 <img src="img/fire.gif" align="right">
 
+<br>
+<br>
+<br>
+<br>
+
 <li> <b>Name:</b> Andrew </li>
 <li> <b>Age:</b> 21 </li>
 <li> <b>Education:</b> Lomonosov Moscow State University
 <li> <b>Faculty:</b> Computational Mathematics and Cybernetics </li>
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -28,3 +30,6 @@
 
 ![](https://raw.githubusercontent.com/TheFieryLynx/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/TheFieryLynx/github-stats-transparent/output/generated/languages.svg)
+
+<br>
+<img src="img/dino.gif" href="https://github.com/TheFieryLynx" />
